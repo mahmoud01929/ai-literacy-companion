@@ -47,9 +47,6 @@ The design focused on being clean, intuitive, and age-appropriate for young chil
 
 ## Team
 
-- Mahmoud Trabulsi — UI/UX Design
-- Abdullah Bin Mousa
-- Sultan Bashammakh
-- Rayan Alshehri
+This was a team project (4 members) for our Senior Graduation requirement.
 
-Supervised by Dr. Faisal Arafsha
+My role: UI/UX Design
