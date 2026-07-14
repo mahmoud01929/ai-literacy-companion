@@ -15,6 +15,20 @@ I led the complete UI/UX design of the platform using Figma, designing every int
 - About page and navigation
 
 The design focused on being clean, intuitive, and age-appropriate for young children, using a calm color palette (blue, white, and light gray) chosen specifically for trust, clarity, and readability.
+## Screens
+
+### Welcome Screen
+![Welcome Screen](./IMG_0997.jpeg)
+
+### Sign Up Screen
+![Sign Up Screen](./IMG_0998.jpeg)
+
+### Login Screen
+![Login Screen](./IMG_0999.jpeg)
+
+### OTP Verification Screen
+![OTP Screen](./IMG_1001.jpeg)
+
 
 ## What the Platform Includes
 
