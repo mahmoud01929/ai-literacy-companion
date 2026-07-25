@@ -32,15 +32,16 @@ The design focused on being clean, intuitive, and age-appropriate for young chil
 
 ### Chess Game — Before Fix
 
-![Chess Before](./ISM_CHESS_BEFORE.jpeg)
+![Chess Before](./IMG_1405.jpeg)
 
 *Layout bug: buttons lacked clear hover/active states.*
 
 ### Chess Game — After Fix
 
-![Chess After](./ISM_CHESS_AFTER.jpeg)
+![Chess After](./IMG_1404.jpeg)
 
 *Fixed with clear instructions, active-state highlighting, and a polished start button.*
+
 
 
 ## What the Platform Includes
@@ -57,12 +58,14 @@ A dedicated security testing phase was conducted to protect the platform's young
 ### Cross-Site Scripting (XSS) Prevention
 Input fields were tested against script injection attempts. Backend sanitization successfully neutralized malicious input before storage.
 
-![XSS Test](./ISM_XSS.jpeg)
+![XSS Test](./IMG_1403.jpeg)
+
 
 ### Rate Limiting
 Authentication routes were tested against high-volume requests. The `express-rate-limit` middleware correctly blocked excess requests.
 
-![Rate Limit Test](./ISM_RATELIMIT.jpeg)
+![Rate Limit Test](./IMG_1401.jpeg)
+
 
 
 
